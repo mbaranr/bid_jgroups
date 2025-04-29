@@ -24,5 +24,5 @@ $ rmiregistry
 
 ## Credits
 
-- [m4mbo](https://github.com/m4mbo)
+- [mbaranr](https://github.com/mbaranr)
 - [JGroups](http://jgroups.org)
